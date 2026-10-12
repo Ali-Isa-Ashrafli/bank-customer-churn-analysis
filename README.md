@@ -34,9 +34,9 @@ Customer-level banking data (≈10K customers): country, gender, age, credit sco
 
 ## 🔢 Headline KPIs
 
-| Total customers | Lost customers | Churn rate |
-|---|---|---|
-| 9,901 | 2,021 | 20.41% |
+| Total customers | Lost customers | Retained | Churn rate |
+|---|---|---|---|
+| 9,901 | 2,021 | 7,880 (79.59%) | 20.41% |
 
 ## 💡 Key insights
 
